@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f0e9a60-666c-4ae9-853e-44a1eaf15d6d" name="Default Changelist" comment="" />
+    <list default="true" id="c6e646a7-ec89-42c0-8203-ebb4893fe0fb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1Q7oczXUtML5olnWHMbCqxpJCMj" />
+  <component name="ProjectId" id="1QGk7Gk3d96ZHoMtWphzm69fLoo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,16 +36,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListDeque">
-    <configuration name="LinkedListDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListDeque" />
-      <module name="proj1a" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListDequeTest" />
+  <component name="RunManager">
+    <configuration name="ArrayDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDequeTest" />
       <module name="proj1a" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,8 +46,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListDeque" />
-        <item itemvalue="Application.LinkedListDequeTest" />
+        <item itemvalue="Application.ArrayDequeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -64,12 +55,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f0e9a60-666c-4ae9-853e-44a1eaf15d6d" name="Default Changelist" comment="" />
-      <created>1567131078480</created>
+      <changelist id="c6e646a7-ec89-42c0-8203-ebb4893fe0fb" name="Default Changelist" comment="" />
+      <created>1567404151566</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567131078480</updated>
-      <workItem from="1567131082870" duration="12784000" />
+      <updated>1567404151566</updated>
+      <workItem from="1567404156791" duration="5371000" />
     </task>
     <servers />
   </component>
